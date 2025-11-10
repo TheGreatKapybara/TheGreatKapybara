@@ -1,16 +1,16 @@
-## Hi there 👋
+# Лагутин Александр
 
-<!--
-**TheGreatKapybara/TheGreatKapybara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Образование: 
+Среднее
+## Дополнительное образование: 
+Курс GeekBrains "Быстрый старт - разрабочтик", курс "Разработчик нейросетей"
+## Опыт работы:
+Работал над пет проектами которые можно увидеть в репозиториях
+## Ключевые навыки:
+HTML - middle
+CSS - middle
+JS - middle
+Разработка нейросетей - junior
+Python - junior
+aiogram - middle
+SQL - junior
